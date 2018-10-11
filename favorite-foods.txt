@@ -1,4 +1,4 @@
-Pasta and meat sauce
-Pumpkin Pie
-Rice and stew
-Salmon
+Pasta and meat sauce     [Main Course]
+Pumpkin Pie              [Dessert]
+Rice and stew            [Main Course]
+Salmon                   [Main Course]
